@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kent Russel G. Balajadia</h1>
 <h3 align="center">A Game Developer from EGC Extreme Unnreal Technology | 3rd year BS Computer Science from New Era University</h3>
-<img align= "right" alt="Coding" width="300"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBleG5tdnhlemJoNmgzazVqaHY2ODFmdDMzZ3pjdnl0c3hxejlvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="500" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBleG5tdnhlemJoNmgzazVqaHY2ODFmdDMzZ3pjdnl0c3hxejlvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kentrussel123&label=Profile%20views&color=0e75b6&style=flat" alt="kentrussel123" /> </p>
 
